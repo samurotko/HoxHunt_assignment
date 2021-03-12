@@ -1,0 +1,24 @@
+[0m2021.03.09 19:24:39 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_' for client vscode 1.54.1.[0m
+[0m2021.03.09 19:24:50 INFO  time: initialize in 10s[0m
+[0m2021.03.09 19:24:55 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.09 19:24:55 WARN  no build tool detected in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.10 00:56:48 INFO  shutting down Metals[0m
+[0m2021.03.10 20:06:58 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_' for client vscode 1.54.1.[0m
+[0m2021.03.10 20:07:05 INFO  time: initialize in 7.42s[0m
+[0m2021.03.10 20:07:07 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.10 20:07:07 WARN  no build tool detected in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.10 20:39:34 INFO  shutting down Metals[0m
+[0m2021.03.11 10:27:02 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_' for client vscode 1.54.1.[0m
+[0m2021.03.11 10:27:16 INFO  time: initialize in 14s[0m
+[0m2021.03.11 10:27:18 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.11 10:27:18 WARN  no build tool detected in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.12 10:54:34 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_' for client vscode 1.54.1.[0m
+[0m2021.03.12 10:54:41 INFO  time: initialize in 7.78s[0m
+[0m2021.03.12 10:54:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.12 10:54:50 WARN  no build tool detected in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.12 12:34:19 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_' for client vscode 1.54.1.[0m
+[0m2021.03.12 12:34:44 INFO  time: initialize in 25s[0m
+[0m2021.03.12 12:34:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.12 12:34:57 WARN  no build tool detected in workspace 'C:\Users\omistaja\Documents\koodaus\kesätyöt\hoxhunt homeassigment\hunters-assignment_'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+maalisk. 12, 2021 10:14:40 IP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
